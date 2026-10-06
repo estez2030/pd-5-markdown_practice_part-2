@@ -20,3 +20,8 @@ Here's a quick look at what I use:
 
 ## My Favorite Command
 `git add .` — This command saves all my photo project
+
+
+![spongebob crochet](https://thewoobles.com/cdn/shop/files/33SB-Spongebob-FW-BGT4-WEB.jpg?v=1763747662)
+![chicken crochet](https://applestooranges.net/cdn/shop/files/699d18e8-2b10-4aa6-ae4f-39f3f211d18f_550x550.png?v=1768003618)
+![picture of a blue camera](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0e5ipx22NTTUPhHF8oaSdCbWgtGtoqyynY_Tc9QZtg&s=10)
